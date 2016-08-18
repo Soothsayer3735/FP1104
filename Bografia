@@ -11,3 +11,6 @@ Los algoritmos también pueden representarse gráficamente empleando diagramas d
 Los algoritmos también pueden escribirse en pseudocódigo, lo que también los hace fáciles de entender.
 Se hacen intentos para que las computadoras interpreten y ejecuten los diagramas de flujo y los pseudocódigos, pero no logran la flexibilidad, potencia y velocidad de los algoritmos puramente escritos en un lenguaje de programación específico.
 Un algoritmo también puede expresarse en lenguaje natural, aunque esto puede traer ambigüedades e interpretaciones erróneas (la ambigüedad es propia del lenguaje humano).
+FLOR
+100-3/(sqrt(x^2+y^2))+sin(sqrt(x^2+y^2))+sqrt(200-(x^2+y^2)+10*sin(x)+10sin(y))/1000, x is from -15 to 15, y is from -15 to 15, z is from
+90 to 101
